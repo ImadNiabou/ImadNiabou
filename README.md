@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Imad Niabou
-- 👀 I’m interested in Frontend Developmen
-- 🌱 I’m currently learning Frontend Development
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently working as a Frontend Developer
 - 💞️ I’m looking to collaborate on Frontend and UX/UI projects
 - 📫 How to reach me imadniabou@gmail.com
 - 👋 Skills Html5, Css3, javaScript, Figma, Photoshop, Illustrator
